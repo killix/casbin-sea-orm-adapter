@@ -1,5 +1,5 @@
 [package]
-name = "sea-orm-adapter"
+name = "casbin-sea-orm-adapter"
 version = "0.3.2"
 edition = "2021"
 authors = ["zihan <ZihanType@proton.me>"]
